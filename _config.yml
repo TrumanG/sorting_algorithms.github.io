@@ -1,1 +1,3 @@
 theme: jekyll-theme-cayman
+title: Sorting Algorithm Visualizer
+description: Randomly generates a unsorted queue and will sort based on your choice of algorithm
